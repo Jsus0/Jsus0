@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Jsus0
-- 👀 I’m interested in Automation Software
+- 👋 Hi, I’m Tim Sekulla 
+- 👀 I’m interested in Automation Software, Web scraping
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me timsekullla@gmx.de
 
 <!---
 Jsus0/Jsus0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
