@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tim Sekulla 
-- 👀 I’m interested in Automation Software, Web scraping
+- 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me timsekullla@gmx.de
 
